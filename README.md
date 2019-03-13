@@ -1,6 +1,6 @@
 # Typegoose
 
-Do you use [Typescript](https://github.com/Microsoft/TypeScript)? Do you use [Mongoose](https://github.com/Automattic/mongoose)? Then maybe you should try [Typegoose](https://github.com/szokodiakos/typegoose) !
+Do you use [Typescript](https://github.com/Microsoft/TypeScript)? Do you use [Mongoose](https://github.com/Automattic/mongoose)? Then maybe you should try [Typegoose](https://github.com/szokodiakos/typegoose)!
 This Node project should get you quickly up and running with Typegoose. It includes the timestamps option, and a basic schema plugin.
 
 ## Prerequisite

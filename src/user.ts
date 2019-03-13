@@ -1,3 +1,4 @@
 export interface IUser {
-    name?: string;
+    name: string;
+    order?: any;
 }
